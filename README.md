@@ -1,4 +1,5 @@
-## Process Reviews
+
+# Process Reviews
 
 At Makers, reviews are the most effective way to see if your processes are of a professional standard. They are conducted by [CoGrammar](https://www.cogrammar.com/).
 
@@ -34,7 +35,7 @@ refactor phases. That said, your overall your process was good!"*
 
 **Improved in 5/8 categories in 1 review.**
 
-Full feedback can be found ![here](assets/README-0799f448.pdf).
+Full feedback can be found [here](assets/README-0799f448.pdf).
 
 ### Review 1
 
@@ -53,4 +54,4 @@ if you do not have a failing test for it yet."*
 Full feedback can be found [here](assets/README-a779311e.pdf).
 
 
-## Review 3 (Booked for 19/04)
+### Review 3 (Booked for 19/04)

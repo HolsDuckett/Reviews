@@ -61,7 +61,7 @@ understanding of what a TDD process should be. There are just a few
 refinements that you can make. The main one being not to add production code
 if you do not have a failing test for it yet.
 
-|Level               |        Coding Processes|
+|Level               |        Coding Process|
 | -------------------------- | ----------------- |
 |**Strong** | Write code that is easy to change |
 | **Steady** | Program Fluency, Debugging, Modelling, Justify Code Choices |

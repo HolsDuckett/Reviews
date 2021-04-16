@@ -31,7 +31,7 @@ red-green-refactor cycle iterations’ complexity and refactoring in the
 refactor phases. That said, your overall your process was good!"*
 
 
-|Level               |        Coding Processes|
+|Level               |        Coding Process|
 | -------------------------- | ----------------- |
 |**Strong** |Agile Process, Write code that is easy to change  |
 | **Steady** | TDD anything, Program Fluency, Debugging, Methodical Approach, Modelling, Justify Code Choices |
@@ -55,7 +55,7 @@ if you do not have a failing test for it yet."*
 
 
 
-|Level               |        Coding Processes|
+|Level               |        Coding Process|
 | -------------------------- | ----------------- |
 |**Strong** | Write code that is easy to change |
 | **Steady** | Program Fluency, Debugging, Modelling, Justify Code Choices |

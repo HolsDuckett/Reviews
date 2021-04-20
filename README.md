@@ -7,7 +7,7 @@ This repository is a record of my reviews during my time at Makers.
 
 ## How a Process Review Works:
 
-The Review is an hour-long remote session conducted via Zoom. The reviewer roleplays as a product owner with a set of non-technical requirements. The developer uses the Makers dev process to convert these requirements into a working, tested, well-written application.
+The Review is an hour-long remote session conducted via Zoom. The reviewer role plays as a product owner with a set of non-technical requirements. The developer uses the Makers dev process to convert these requirements into a working, tested, well-written application.
 
 The Review assesses how well a developer:
 
@@ -25,7 +25,7 @@ The Review assesses how well a developer:
 test-driven development principles and your process vocalisation was also
 quite good! You could improve further by paying attention to your
 red-green-refactor cycle iterations’ complexity and refactoring in the
-refactor phases. That said, your overall your process was good!"*
+refactor phases. That said, your overall your process was good!"*</br>
 
 |Level               |        Coding Processes|
 | -------------------------- | ----------------- |
@@ -35,7 +35,7 @@ refactor phases. That said, your overall your process was good!"*
 
 **Improved in 5/8 categories in 1 review.**
 
-Full feedback can be found [here](assets/README-0799f448.pdf).
+Full feedback can be found [here](assets/README-0799f448.pdf) and a screen recording of my TDD process [here](https://www.youtube.com/watch?v=IbkamcILS_g).
 
 ### Review 1
 
@@ -51,7 +51,7 @@ if you do not have a failing test for it yet."*
 | **Improving** | TDD anything, Refactoring, Methodical Approach, Agile Process|
 
 
-Full feedback can be found [here](assets/README-a779311e.pdf).
+Full feedback can be found [here](assets/README-a779311e.pdf) and a screen recording of my TDD process [here](https://www.youtube.com/watch?v=qnRl7s-STfg).
 
 
 ### Review 3 (Booked for 19/04)

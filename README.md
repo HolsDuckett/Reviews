@@ -40,14 +40,7 @@ refactor phases. That said, your overall your process was good!"*</br>
 
 **Improved in 5/8 categories in 1 review.**
 
-<<<<<<< HEAD
 Full feedback can be found [here](assets/README-0799f448.pdf) and a screen recording of my TDD process [here](https://www.youtube.com/watch?v=IbkamcILS_g).
-=======
-
-Full feedback can be found [here](assets/README-0799f448.pdf).
->>>>>>> 7efbcdf0d397cfd9f87488f2df07bb9a941f5fcd
-
-
 
 ### Review 1
 
@@ -56,7 +49,6 @@ Full feedback can be found [here](assets/README-0799f448.pdf).
 understanding of what a TDD process should be. There are just a few
 refinements that you can make. The main one being not to add production code
 if you do not have a failing test for it yet."*
-
 
 
 |Level               |        Coding Process|
